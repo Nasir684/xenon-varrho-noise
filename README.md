@@ -1,3 +1,4 @@
+10.5281/zenodo.23499555
 # Xenon Var-Rho Noise Discrimination
 
 Dual-phase xenon time-projection chambers — the LZ and XENONnT class — read
